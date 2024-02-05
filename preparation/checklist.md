@@ -12,8 +12,9 @@
 - [ ] Equipment
   - [ ] Microphone
   - [ ] Projector
+  - [ ] A/V Staff Present
 - [ ] Q&A
-- [ ] Timeslot
+- [ ] Time slot
   - [ ] Before
   - [ ] After
 
@@ -21,13 +22,13 @@
 
 # {Title}
 
-This is a presentatiln about {Theme}.
+This is a presentation about {Theme}.
 
-To be delivered {Date} and {Timeslot} to {Audience} _with_ {Co-Presenters}. This is {Size} {Personas}. The presentation is after {After} and before {Before}.
+To be delivered {Date} at {Time slot} to {Audience} _with_ {Co-Presenters}. This is {Size} {Personas}. The presentation is after {After} and before {Before}.
 
-The room is {room size} and thre _is/is not_ a microphone and there _is/is not_ a projector. 
+The room is {room size} and there _is/is not_ a microphone and there _is/is not_ a projector. 
 
-The objective of the presentation is {Objective}. Questions _will follow/be exptected throughout/no be taken_.
+The objective of the presentation is {Objective}. Questions _will follow/be expected throughout/no be taken_.
 
 ## Outline
 
